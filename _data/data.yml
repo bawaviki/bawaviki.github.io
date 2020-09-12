@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Vikas Bawa (bawaviki)
-    tagline: Full Stack Developer
+    tagline: One of the best software developer in sonipat.
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bawaviki99@gmail.com
     phone: +91 7988637885
-    website: bawaviki.com #do not add http://
+    website: bawaviki.github.io #do not add http://
     linkedin: bawaviki
     github: bawaviki
     telegram: bawaviki # add your nickname without '@' sign
@@ -27,23 +27,21 @@ sidebar:
     reddit: bawaviki
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: Hindi
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: Hacking
         link:
 
-      - item: Snowboarding
+      - item: Learning new technologies
         link:
 
-      - item: Cooking
+      - item: Coding
         link:
 
 career-profile:
@@ -67,18 +65,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
+    experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
@@ -119,16 +106,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of my best projects, allthough not complete list but enough.
     assignments:
       - title: SaveTube
         link: "SaveTube"
         tagline: "Cross platform video downloader support 1000+ sites."
 
       - title: Beacon Kernel
-        link: "#"
+        link: "beacon_land"
         tagline: "Full-fleged Custom kernel for android devices like Xiaomi Redmi 3s/x/prime, Redmi 4a/x etc."
 
       - title: SaveStatus
@@ -184,8 +169,8 @@ skills:
       - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C/C++
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
