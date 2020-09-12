@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: bawaviki99@gmail.com
     phone: +91 7988637885
-    website: bawaviki.github.io #do not add http://
+    website: bawaviki.com #do not add http://
     linkedin: bawaviki
     github: bawaviki
     telegram: bawaviki # add your nickname without '@' sign
@@ -33,12 +33,11 @@ sidebar:
       - idiom: English
         level: Professional
 
-
     interests:
       - item: Hacking
         link:
 
-      - item: Learning new technologies
+      - item: Learn new technologies
         link:
 
       - item: Coding
@@ -58,15 +57,10 @@ education:
       university: DCRUST 
       time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    
- experiences:
+        Completed my becholor's degree in computer science with lots of learning and fun. Also with
+          - Honors degree
+          - 8.2 SGPA
+experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
@@ -107,7 +101,7 @@ education:
 projects:
     title: Projects
     intro: >
-      Some of my best projects, allthough not complete list but enough.
+      Some of my best projects, allthough list is not complete but enough.
     assignments:
       - title: SaveTube
         link: "SaveTube"
