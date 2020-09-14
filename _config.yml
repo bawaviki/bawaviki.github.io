@@ -2,7 +2,7 @@
 
 # Site Settings
 title: bawaviki's Resume
-url: 'http://bawaviki.com'
+url: 'http://bawaviki.github.io'
 baseurl: '/' #change it according to your repository name
 description: Vikas bawa (bawaviki) e-resume/CV. Know all about vikas, his education, experience, projects and other useful infomation.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
