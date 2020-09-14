@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: bawaviki99@gmail.com
     phone: +91 7988637885
-    website: bawaviki.com #do not add http://
+    website: bawaviki.github.io #do not add http://
     linkedin: bawaviki
     github: bawaviki
     telegram: bawaviki # add your nickname without '@' sign
@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: OBJECTIVES
     summary: |
-      Seeking an opportunity to get an entry level job in an innovated organisation..
+      Seeking an opportunity to get an entry level job in an innovated organisation.
 education:
     - degree: BTECH in Computer Science
       university: DCRUST 
@@ -57,42 +57,25 @@ education:
           - 8.2 SGPA
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2020 - Present
+      company: vShotapp, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Lead Developer at vshotapp.com, works on both android app as well as backend api.
+        The vShot app is a small video social network where you can share your daily life with your friends, family and other users worldwide. 
+        Capture and make your own funny short videos with our special effects camera and stickers
+          - [vShot Android app!](https://play.google.com/store/apps/details?id=com.vshot)
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2020 - present
+      company: SENDiT-India, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Senior Software developer at sendit-india, helps as frontend and UI developer. Works on their android application.
+          - [SENDiT Android!](https://play.google.com/store/apps/details?id=com.india.sendit)
+    - role: Senior Developer
+      time: 2020 - present
+      company: ILESHKUMAR APPs, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Works on business logic of app and optimization of app performed.
+         - [Share Notification app!](https://play.google.com/store/apps/details?id=com.noticouple)
 projects:
     title: Projects
     intro: >
