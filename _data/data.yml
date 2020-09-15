@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: OBJECTIVES
     summary: |
-      Seeking an opportunity to get an entry level job in an innovated organisation.
+      Work for an organization which provides me the opportunitynto improve my skills and knowledge to growth along with organization objective.
 education:
     - degree: BTECH in Computer Science
       university: DCRUST 
@@ -63,19 +63,19 @@ experiences:
         Lead Developer at vshotapp.com, works on both android app as well as backend api.
         The vShot app is a small video social network where you can share your daily life with your friends, family and other users worldwide. 
         Capture and make your own funny short videos with our special effects camera and stickers
-          - [vShot Android app!](https://play.google.com/store/apps/details?id=com.vshot)
+          - [vShot Android app](https://play.google.com/store/apps/details?id=com.vshot)
     - role: Senior Software Engineer
       time: 2020 - present
       company: SENDiT-India, India
       details: |
         Senior Software developer at sendit-india, helps as frontend and UI developer. Works on their android application.
-          - [SENDiT Android!](https://play.google.com/store/apps/details?id=com.india.sendit)
+          - [SENDiT Android](https://play.google.com/store/apps/details?id=com.india.sendit)
     - role: Senior Developer
       time: 2020 - present
-      company: ILESHKUMAR APPs, India
+      company: sharenotification.com, India
       details: |
         Works on business logic of app and optimization of app performed.
-         - [Share Notification app!](https://play.google.com/store/apps/details?id=com.noticouple)
+         - [Share Notification app](https://play.google.com/store/apps/details?id=com.noticouple)
 projects:
     title: Projects
     intro: >
@@ -90,7 +90,7 @@ projects:
         tagline: "Full-fleged Custom kernel for android devices like Xiaomi Redmi 3s/x/prime, Redmi 4a/x etc."
 
       - title: SaveStatus
-        link: "#"
+        link: "https://savestatus-whatsapp-status-downloader.en.uptodown.com/android"
         tagline: "Save Status on the go ! Support WhatsApp, Whatsapp Business, OGWhatsapp, parallel space etc"
 
       - title: youtube-dl-android
